@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T12:34:21.941Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="Av3bsvn5QoYoO5BsvgG7" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T12:35:12.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56" etag="kMo1QGgM9GcsFVP8tniV" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1422" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="VzK46RUyFmm7DbE24r6e-3" value="kit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VzK46RUyFmm7DbE24r6e-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VzK46RUyFmm7DbE24r6e-4" target="VzK46RUyFmm7DbE24r6e-3">
+        <mxCell id="VzK46RUyFmm7DbE24r6e-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#072A0A;strokeColor=#44F022;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VzK46RUyFmm7DbE24r6e-4" target="VzK46RUyFmm7DbE24r6e-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VzK46RUyFmm7DbE24r6e-4" value="other component" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
